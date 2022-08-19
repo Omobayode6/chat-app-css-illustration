@@ -128,6 +128,7 @@ main{
   margin: 6px 8px 6px auto;
   padding: 8px 10px;
   border-radius: 10px 10px 0 20px;
+  color: hsl(271, 15%, 43%);
 }
 .card{
   display: flex;
